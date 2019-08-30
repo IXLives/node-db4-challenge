@@ -33,3 +33,9 @@ ingredient_name
 recipe_id
 ingredient_id
 quantity
+
+
+### Queries
+getRecipes - done
+getShoppingList - done?
+getInstructions - 
